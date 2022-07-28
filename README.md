@@ -6,10 +6,10 @@ In this project we learned how to manage API calls and display JSON data to a ma
 Boston Transit Authority. 
 
 ## How to Run:
-The app is run by pressing the "Show" button to display data from the MBTA.
+The app is run automatically and displays live public bus GPS data from the MBTA.
 
 ## RoadMap:
--Add Mini Bus Logos to display the motion
+-Add  Bus Stop Indicators to convey an idea of how far away a bus is from you.
 -Add a hover tool tip to give estimated ETA information
 
 ## Licensing
